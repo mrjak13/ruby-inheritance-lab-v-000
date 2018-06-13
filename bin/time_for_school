@@ -23,3 +23,6 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Florentine"
 
+gracie = Student.new
+gracie.first_name = "Grania"
+gracie.last_name = "Riess"

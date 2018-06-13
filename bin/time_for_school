@@ -33,5 +33,4 @@ neil.last_name = "Degrasse Tyson"
 
 gracie.learn("Astrophysics")
 
-puts "#{gracie.first_name} just learned #{gracie.knowledge} from #{neil.first_name} #{neil.last_name}"
- 
+puts "#{gracie.first_name} just learned #{gracie.knowledge.first} from #{neil.first_name} #{neil.last_name}"

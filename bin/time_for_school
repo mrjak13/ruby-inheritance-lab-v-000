@@ -29,9 +29,9 @@ gracie.last_name = "Riess"
 
 neil = Teacher.new
 neil.first_name = "Neil"
-nail.last_name = "Degrasse Tyson"
+neil.last_name = "Degrasse Tyson"
 
 gracie.learn("Astrophysics")
 
-puts "#{gracie.first_name} just learned #{gracie.knowledge} from #{neil.first_name} #{neil.last_name}"  
+puts "#{gracie.first_name} just learned #{gracie.knowledge} from #{neil.first_name} #{neil.last_name}"
  

@@ -26,3 +26,9 @@ jim.last_name = "Florentine"
 gracie = Student.new
 gracie.first_name = "Grania"
 gracie.last_name = "Riess"
+
+neil = Teacher.new
+neil.first_name = "Neil"
+nail.last_name = "Degrasse Tyson"
+
+gracie.learn("Astrophysics")
